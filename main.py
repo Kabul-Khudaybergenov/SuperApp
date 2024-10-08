@@ -3,3 +3,6 @@ def sayHello():
 
 def sayGoodbye():
     print("Goodbye!")
+
+def sayHi():
+    print("Hi!")
