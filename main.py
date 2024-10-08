@@ -6,3 +6,6 @@ def sayGoodbye():
 
 def sayHi():
     print("Hi!")
+
+def exit():
+    exit(0)
